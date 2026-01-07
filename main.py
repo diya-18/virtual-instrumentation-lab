@@ -9,3 +9,6 @@ venturimeter.plot_flow_rate_vs_head(0.05, 0.025)
 from instruments.rotameter import plot_rotameter_characteristic
 
 plot_rotameter_characteristic()
+from instruments.bimetallic import plot_bimetallic_response
+
+plot_bimetallic_response()
