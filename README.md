@@ -50,8 +50,8 @@ virtual-instrumentation-lab/
 
 1.Clone the repository:
 
-git clone https://github.com/diya-18/virtual-instrumentation-lab.git
-cd virtual-instrumentation-lab
+- git clone https://github.com/diya-18/virtual-instrumentation-lab.git
+- cd virtual-instrumentation-lab
 
 2.Install dependencies:
 pip install -r requirements.txt
