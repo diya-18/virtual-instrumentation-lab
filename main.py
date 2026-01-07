@@ -16,3 +16,6 @@ plot_bimetallic_response()
 
 from instruments.liquid_in_glass import plot_liquid_in_glass_response
 plot_liquid_in_glass_response()
+
+from instruments.orifice_meter import plot_orifice_characteristic
+plot_orifice_characteristic()
