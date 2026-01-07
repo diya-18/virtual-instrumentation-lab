@@ -25,3 +25,6 @@ plot_em_flowmeter_response()
 
 from instruments.vortex import plot_vortex_response
 plot_vortex_response()
+
+from instruments.coriolis import plot_coriolis_response
+plot_coriolis_response()
